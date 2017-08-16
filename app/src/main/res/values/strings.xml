@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidOlla</string>
+    <string name="txt_hello">Hello World!</string>
+    <string name="btn_olla">OLLA!</string>
+    <string name="olla_message">OLLA!!!!</string>
 </resources>
