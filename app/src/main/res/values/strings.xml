@@ -3,4 +3,5 @@
     <string name="txt_hello">Hello World!</string>
     <string name="btn_olla">OLLA!</string>
     <string name="olla_message">OLLA!!!!</string>
+    <string name="btnCancel">Cancel</string>
 </resources>
